@@ -13,6 +13,7 @@
             <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="viber"/>
         </a>
     </div>
+    <img src="https://komarev.com/ghpvc/?username=bigWebOwl&style=flat-square&color=blue" alt=""/>
 </div>
 
 
