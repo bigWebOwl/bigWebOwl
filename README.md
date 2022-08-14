@@ -49,5 +49,5 @@
 
 <div id="stats">
     <h2>:fire: Статистика:</h2>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bigWebOwl"/></a>
 </div>
