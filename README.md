@@ -25,7 +25,12 @@
 </div>
 <br>
 <div id="about">
-    :man_technologist: Про мене:
+    <h2>:man_technologist: Про мене:</h2>
+    <ul>
+        <li>
+            <p>верстальщик початківець</p>
+        </li>
+    </ul>    
     
 </div>
 
