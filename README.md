@@ -20,7 +20,7 @@
 <h2 align="center">Hey there :wave:</h2>
 <br>
 <div align="center">
-  <img scr="[https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif](https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif)" (https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif) width="600" height="300"/>
+  <img scr="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="600" height="300"/>
 </div>
 
 
