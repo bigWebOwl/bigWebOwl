@@ -49,7 +49,7 @@
 
 <div id="stats">
     <h2>:fire: Статистика:</h2>
-    <picture>
+    <picture align="center">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bigWebOwl&theme=dark" />
         <img src="https://github-readme-streak-stats.herokuapp.com?user=bigWebOwl&theme=default" />
 </picture>
