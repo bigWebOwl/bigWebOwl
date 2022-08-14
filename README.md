@@ -3,7 +3,7 @@
     <br>
     <br>
     <div id="badges">
-        <a href="viber://chat?number=+380986697772" target="_blank">
+        <a href="viber://chat?number=%2B380986697772" target="_blank">
             <img src="https://img.shields.io/badge/Viber-eggplant?style=for-the-badge&logo=Viber&logoColor=white" alt="viber"/>
         </a>
         <a href="https://t.me/sovavit" target="_blank">
