@@ -54,5 +54,6 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bigWebOwl&theme=dark" />
             <img src="https://github-readme-streak-stats.herokuapp.com?user=bigWebOwl&theme=default" />
         </picture>
-    </div>    
+    </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigWebOwl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
