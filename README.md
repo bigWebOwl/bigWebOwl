@@ -26,5 +26,10 @@
 <br>
 <div id="about">
     :man_technologist: Про мене:
-</div>    
+    
+</div>
 
+<div id="lang">
+    :hammer_and_wrench: Інструменти які я використовую:
+</div>    
+    
