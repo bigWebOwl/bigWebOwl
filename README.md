@@ -24,6 +24,6 @@
 </div>
 <br>
 <div id="about">
-    ### :woman_technologist: About Me :
+    :man_technologist: About Me :
 </div>    
 
