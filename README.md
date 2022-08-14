@@ -4,6 +4,9 @@
         <a href="viber://chat?number=%2B380986697772">
             <img src="https://img.shields.io/badge/Viber-blue" alt="viber"/>
         </a>
+        <a href="viber://chat?number=%2B380986697772">
+            <img src="https://img.shields.io/badge/Telegram-blue" alt="viber"/>
+        </a>
     </div>
 </div>
 
