@@ -16,6 +16,8 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=bigWebOwl&style=flat-square&color=blue" alt=""/>
 </div>
+<br>
+<h2>Hey there :hugs:</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
