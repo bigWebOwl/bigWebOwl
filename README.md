@@ -19,6 +19,7 @@
 <br>
 <h2 align="center">Привіт! :wave:</h2>
 <br>
+<br>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
