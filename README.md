@@ -17,13 +17,13 @@
     <img src="https://komarev.com/ghpvc/?username=bigWebOwl&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
-<h2 align="center">Hey there :wave:</h2>
+<h2 align="center">Привіт! :wave:</h2>
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 <br>
 <div id="about">
-    :man_technologist: About Me :
+    :man_technologist: Про мене:
 </div>    
 
