@@ -4,7 +4,7 @@
     <br>
     <div id="badges">
         <a href="viber://chat?number=%2B380986697772" target="_blank">
-            <img src="https://img.shields.io/badge/Viber-blue?style=for-the-badge&logo=Viber&logoColor=white" alt="viber"/>
+            <img src="https://img.shields.io/badge/Viber-slateblue?style=for-the-badge&logo=Viber&logoColor=white" alt="viber"/>
         </a>
         <a href="https://t.me/sovavit" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="viber"/>
