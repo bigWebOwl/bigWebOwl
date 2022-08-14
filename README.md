@@ -56,8 +56,10 @@
         </picture>
     </div>
     <br>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bigWebOwl&layout=compact&theme=vision-friendly-dark" />
-        <img src="https://github.com/anuraghazra/github-readme-stats" />
-    </picture>
+     <div  align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bigWebOwl&layout=compact&theme=vision-friendly-dark" />
+            <img src="https://github.com/anuraghazra/github-readme-stats" />
+        </picture>
+      </div>    
 </div>
