@@ -20,7 +20,7 @@
 <h2 align="center">Hey there :wave:</h2>
 <br>
 <div align="center">
-  <img scr="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
 
