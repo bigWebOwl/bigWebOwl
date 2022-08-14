@@ -46,3 +46,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     </div>
 </div>
+
+<div id="stats">
+    <h2>:fire: Статистика:</h2>
+</div>
