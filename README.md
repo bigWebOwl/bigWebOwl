@@ -9,7 +9,7 @@
         <a href="https://t.me/sovavit" target="_blank">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="viber"/>
         </a>
-         <a "mailto:sova2011@gmail.com" target="_blank">
+         <a href="mailto:sova2011@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=google&logoColor=white" alt="viber"/>
         </a>
     </div>
